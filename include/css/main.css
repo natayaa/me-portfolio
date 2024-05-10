@@ -567,6 +567,11 @@ a:hover {
     font-weight: bold;
 }
 
+.experiences ul li {
+    margin-top: 1px;
+}
+
+
 /** Footer */
 #footer {
     background-size: cover;
